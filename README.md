@@ -71,8 +71,4 @@ MLP achieved **better prediction accuracy** and captured nonlinear interactions 
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/MLR-vs-MLP-GWL.git
-   cd MLR-vs-MLP-GWL
+
